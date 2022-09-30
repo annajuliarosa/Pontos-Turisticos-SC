@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\annnj\OneDrive\Área de Trabalho\SitePontosTuristicosSC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1733616995.index
+4220662215.index
+1700420304.index
+1630635463.index
+969139074.index
